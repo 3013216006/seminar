@@ -86,7 +86,7 @@ print(autograph.to_code(square_if_positive))
 ```
 结果如下：
  <figure class="1">
- 	<img src="autogriph.png">
+ 	<img src="autograph.png">
  </figure>
 ---
 
