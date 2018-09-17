@@ -18,7 +18,7 @@
 	+ ISPRS[数据说明下载地址](http://www2.isprs.org/commissions/comm2/wg4/vaihingen-2d-semantic-labeling-contest.html)
 
 **实验结果**：
-<figure class="1">
+<figure class="third">
     <img src="1.png"><img src="1o.png"><img src="1s.png">
 </figure>
 
