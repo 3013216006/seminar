@@ -19,9 +19,7 @@
 
 **实验结果**：
 <figure class="1">
-    <img src="1.png">
-    <img src="1o.png">
-    <img src="1s.png">
+    <img src="1.png"><img src="1o.png"><img src="1s.png">
 </figure>
 
 ### **整理或总结**
