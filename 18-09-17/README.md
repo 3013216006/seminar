@@ -52,6 +52,41 @@
     <img src="27.png"><img src="27crf.png"><img src="27o.png">
 </figure>
 
+**实验总结**：因为在实验中仅仅使用了CRF，而非deeplab中提到的fully connected CRF,所以少了位置信息，效果有限。
 
+ ### 其他
+ - tf.enable_eager_execution()
+ 	+  eager execution能够使用Python 的debug工具、数据结构与控制流。并且无需使用placeholder、session，计算结果能够立即得出。它将tensor表现得像Numpy array一样，和numpy的函数兼容
+	+ 运行效果如下：
+ <figure class="1">
+ 	<img src="tf.png">
+ </figure>
+
+- autograph
+```python (type)
+from __future__ import division, print_function, absolute_import
+import tensorflow as tf
+layers = tf.keras.layers
+from tensorflow.contrib import autograph
+import numpy as np
+import matplotlib.pyplot as plt
+
+tf.enable_eager_execution()
+
+def square_if_positive(x):
+	if x > 0:
+		x = x * x
+	else:
+		x = 0.0
+	return x
+
+
+print(autograph.to_code(square_if_positive))
+
+```
+结果如下：
+ <figure class="1">
+ 	<img src="autogriph.png">
+ </figure>
 ---
 
