@@ -23,6 +23,8 @@
     <img src="1.png"><img src="1o.png"><img src="1s.png">
 </figure>
 
+---
+
 ###  **实验2**
 
 **实验意图与方向**：在实验1的基础上增加crf
@@ -53,6 +55,61 @@
 </figure>
 
 **实验总结**：因为在实验中仅仅使用了CRF，而非deeplab中提到的fully connected CRF,所以少了位置信息，效果有限。
+
+---
+
+###  **实验3**
+
+**实验意图与方向**：在实验1的基础上删除远红外波段
+
+**实验结果**：
+总体准确率为：56.53%（实验一结果OA=62.07%）
+
+---
+
+###  **实验4**
+
+**实验意图与方向**：在实验1的基础上增加网络层数
+
+**实验结果**：
+总体准确率为：61.56%（实验一结果OA=62.07%）
+
+---
+
+###  **实验5**
+
+**实验意图与方向**：遥感图像语义分割
+
+**实验来源**：使用论文[Tiramisu](https://arxiv.org/abs/1611.09326)的方法；
+
+- 代码地址[github](https://github.com/HasnainRaz/FC-DenseNet-TensorFlow)
+
+**实验基础**：
+
+- 已有成果 \ 结果
+	+ FCN OA(63%)
+
+- 已有数据 \ 可下载到的数据
+	+ 甲方给的
+	+ (*)ISPRS[数据说明下载地址](http://www2.isprs.org/commissions/comm2/wg4/vaihingen-2d-semantic-labeling-contest.html)
+
+**实验结果**：
+总体准确率为：24.83%
+
+---
+###  **实验6**
+
+**实验意图与方向**：在实验5的基础上增加网络层数
+
+**实验结果**：
+总体准确率为：78.92%（实验5结果OA=24.83%）
+
+<figure class="third">
+    <img src="7.png"><img src="7o.png"><img src="7s.png">
+</figure>
+---
+
+
 
  ### 其他
  - tf.enable_eager_execution()
