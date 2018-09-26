@@ -40,10 +40,15 @@
 
 **实验总结**：实验效果有所提升
 
-<figure class="third">
-    <img src="83.png" width="200"/><img src="83o.png" width="200"/ ><img src="83b.png" width="200"/ ><img src="83m.png" width="200"/>
+<figure class="half">
+    <img src="83.png" width="200"/>
+    <img src="83o.png" width="200"/ >
 </figure>
 
+<figure class="half">
+    <img src="83b.png" width="200"/ >
+    <img src="83m.png" width="200"/>
+    </figure>
 
 
 
