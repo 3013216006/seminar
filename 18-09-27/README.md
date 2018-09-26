@@ -40,15 +40,8 @@
 
 **实验总结**：实验效果有所提升
 
-<figure class="half">
-    <img src="83.png" width="200"/>
-    <img src="83o.png" width="200"/ >
-</figure>
-
-<figure class="half">
-    <img src="83b.png" width="200"/ >
-    <img src="83m.png" width="200"/>
-    </figure>
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83.png)![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83b.png)![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83m.png)
 
 
 
