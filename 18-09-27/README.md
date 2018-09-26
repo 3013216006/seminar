@@ -7,10 +7,11 @@
 
 **实验结果**：总体准确率为：78.92%（结果OA=24.83%）
 
-<figure class="third">
-    <img src="7.png"><img src="7o.png"><img src="7s.png">
-</figure>
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/7s.png) \\
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/7o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/7.png)
 ---
+
 
 ### **实验1**
 **实验意图与方向**：在实验0模型输出的结果中添加中值滤波
@@ -40,7 +41,7 @@
 
 **实验总结**：实验效果有所提升
 
-![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83.png)![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83.png)![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83o.png) \\
 ![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83b.png)![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83m.png)
 
 
