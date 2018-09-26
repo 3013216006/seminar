@@ -25,9 +25,7 @@
 ### **实验2**
 **实验意图与方向**：在实验0的基础上，在网络的开始添加中值滤波
 
-**实验结果**：
-
-总体准确率为：81.93%
+**实验结果**：总体准确率为：81.93%
 
 **实验总结**：实验效果明显提升
 
@@ -43,7 +41,7 @@
 **实验总结**：实验效果有所提升
 
 <figure class="third">
-    <img src="83.png"><img src="83o.png"><img src="83m.png">
+    <img src="83.png" width="200"/><img src="83o.png" width="200"/ ><img src="83b.png" width="200"/ ><img src="83m.png" width="200"/>
 </figure>
 
 
