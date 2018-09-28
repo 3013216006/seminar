@@ -83,7 +83,7 @@
 
 给CoupleNet网络结构
 
-![image](https://github.com/3013216006/seminar/blob/master/18-09-27/CN1.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/CN2.png)
 
 
 **代码链接**：[tshizys的代码](https://github.com/tshizys/CoupleNet)，python版本
