@@ -86,7 +86,7 @@ CoupleNet网络结构
 ![image](https://github.com/3013216006/seminar/blob/master/18-09-27/CN2.png)
 
 - 最上面这条支路就是原本的R-FCN；
-- 中间这条支路是用来encode global info的，对于一个region proposal，依次通过 k x k的RoI Pooling，k x k的conv以及1 x 1 conv；
+- 中间这条支路是用来encode global info的，对于一个region proposal，依次通过 RoI Pooling，k x k的conv以及1 x 1 conv；
 - 最下面的支路是用来encode context prior的，对于一个region proposal，首先选择以这个proposal为中心，面积是原来2倍的proposal，一样依次通过RoI Pooling，k x k conv以及1 x 1 conv；
 - 最后把local FCN和Global FCN的结果couple起来，作者选择的是先各自通过1x1conv调整激活值的scale，然后对应位置元素相加，最后通过一个softmax进行分类；
 
