@@ -90,9 +90,6 @@ CoupleNet网络结构
 - 最下面的支路是用来encode context prior的，对于一个region proposal，首先选择以这个proposal为中心，面积是原来2倍的proposal，一样依次通过k x k RoI Pooling，k x k conv以及1 x 1 conv；
 - 最后把local FCN和Global FCN的结果couple起来，作者选择的是先各自通过1x1conv调整激活值的scale，然后对应位置元素相加，最后通过一个softmax进行分类；
 
----------------------
-
-本文来自 yj_isee 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/yaoqi_isee/article/details/77097533?utm_source=copy
 
 **代码链接**：[tshizys的代码](https://github.com/tshizys/CoupleNet)，python版本
 
