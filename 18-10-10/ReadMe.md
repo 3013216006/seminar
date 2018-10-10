@@ -129,9 +129,36 @@ CoupleNet网络结构
 
 迭代50轮后达到总体准确率81.47%
 
-**实验总结**：实验效果有所提升
+**实验总结**：100轮后的效果应该能够有所提升
+
+---
+
+### **论文阅读1**
+**题目**：ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation[paper](https://arxiv.org/pdf/1606.02147.pdf)
 
 
+**作者**：Adam Paszke(华沙大学)
+
+**简介** ：应用量为197
+
+**技术要点** ：在保证精度的同时尽可能提高速度，综合了很多特色的网络结构，并在输入端首先加以压缩达到加速的目的。
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/enet.gif)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/enetres.gif)
+
+**代码链接**：[代码](https://github.com/kwotsin/TensorFlow-ENet)，Tensorflow版本
+
+
+**数据集**：COCO数据集和VOC数据集
+
+**原文网络结构**:
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/enet1.jpg)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/enet2.jpg)
+
+
+---
+### 论文阅读笔记
  ### Paper1
  **U-Net: Convolutional Networks for Biomedical Image Segmentation**
 present a net and traning strategy
