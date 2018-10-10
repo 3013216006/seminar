@@ -104,6 +104,29 @@ CoupleNet网络结构
 
 ### 2018-09-27 ~ 2018-10-10
 
+### **实验1**
+**实验意图与方向**：
+
+**实验结果**：迭代100轮后达到总体准确率81.64%
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/83.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/83o.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83b.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83m.png)
+**实验总结**：
+
+---
+
+### **实验2**
+**实验意图与方向**：在实验1的基础上，加深了网络层数
+
+**实验结果**：
+
+迭代50轮后达到总体准确率81.47%
+
+**实验总结**：实验效果有所提升
+
+
  ### Paper1
  **U-Net: Convolutional Networks for Biomedical Image Segmentation**
 present a net and traning strategy
