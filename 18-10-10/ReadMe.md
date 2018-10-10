@@ -108,11 +108,13 @@ CoupleNet网络结构
 **实验意图与方向**：
 
 **实验结果**：迭代100轮后达到总体准确率81.64%
-![image](https://github.com/3013216006/seminar/blob/master/18-10-10/83.png)
-![image](https://github.com/3013216006/seminar/blob/master/18-10-10/83o.png)
 
-![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83b.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83o.png)
+
 ![image](https://github.com/3013216006/seminar/blob/master/18-09-27/83m.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/83.png)
+
 **实验总结**：
 
 ---
