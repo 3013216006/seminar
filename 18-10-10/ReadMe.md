@@ -106,6 +106,9 @@ CoupleNet网络结构
 
 ### **实验1**
 **实验意图与方向**：
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/tira.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-10/my.png)
 
 **实验结果**：迭代100轮后达到总体准确率81.64%
 
