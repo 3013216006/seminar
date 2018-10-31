@@ -203,6 +203,26 @@
 ### **实验4**
 **实验意图与方向**：在实验00的基础上，在数据集中添加深度信息（重新制作数据集）
 
-**实验结果**：目前的总体准确率为：87.61%
+**实验结果**：目前的总体准确率为：88.16%
 
 **实验总结**：实验效果有提升，需要进一步思考如何更好的应用深度信息
+
+
+---
+### 其他
+**screen 的使用方法**
+- screen -S yourname -> 新建一个叫yourname的session
+- screen -ls -> 列出当前所有的session
+- screen -r yourname -> 回到yourname这个session
+- screen -d yourname -> 远程detach某个session
+- screen -d -r yourname -> 结束当前session并回到yourname这个session
+
+
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/screen-ls.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/screen.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/screen-s.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/screen-ls2.png)
