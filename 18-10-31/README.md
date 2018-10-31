@@ -169,15 +169,32 @@
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1.png)
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1e.png)
+
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/2.png)
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/2o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/2e.png)
+
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/3.png)
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/3o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/3e.png)
+
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/4.png)
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-31/4o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/4e.png)
+
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/5.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/5o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/5e.png)
+
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/6.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/6o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/6e.png)
 
 ---
 
