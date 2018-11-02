@@ -203,10 +203,78 @@
 ### **实验4**
 **实验意图与方向**：在实验00的基础上，在数据集中添加深度信息（重新制作数据集）
 
-**实验结果**：目前的总体准确率为：88.16%
+**实验结果**：目前的总体准确率为：89.1-89.3%
 
 **实验总结**：实验效果有提升，需要进一步思考如何更好的应用深度信息
 
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/0image.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/0gt.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/0res.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/17image.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/17gt.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/17res.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/3image.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/3gt.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/3res.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/4image.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/4gt.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/4res.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/19image.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/19gt.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/1101/19res.png)
+
+---
+
+### **实验5**
+**实验意图与方向**：在实验4的基础上，添加结构相似性为loss
+
+**实验结果**：目前的总体准确率为：88.5-88.8%
+
+**实验总结**：实验效果下降，可能是因为edge detection在总loss中的比重太大
+
+---
+
+### **实验6**
+**实验意图与方向**：在实验4的基础上，修改成论文阅读1中的loss
+
+**实验结果**：目前的总体准确率为：27%
+
+**实验总结**：没有收敛
+
+
+---
+
+### **论文阅读1**
+**题目**：Direction-aware Spatial Context Features for Shadow Detection
+
+**作者**：Xiaowei Hu, Lei Zhu, Chi-Wing Fu, Jing Qin, Pheng-Ann Heng
+
+**简介** ：CVPR2018
+
+**技术要点** ：
+- 使用空间RNN提高阴影检测结果
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/srnn1.png)
+
+- loss使用weighted cross entropy
+
+- 网络结构
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/srnn3.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/srnn4.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/srnn2.png)
+
+**数据集**：  SBU Shadow Dataset, UCF Shadow Dataset
+
+**原文实验效果**：在两个阴影检测数据机上都取得了最好的结果，并有很大的提升
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-31/srnnres.png)
 
 ---
 ### 其他
