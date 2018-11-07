@@ -72,10 +72,42 @@
 
 
 ---
-### **实验2**
+### **实验3**
 **实验意图与方向**：在实验1的基础上，进一修改修改网络结构
+
+**实验结果**：
+迭代100轮后达到总体准确率81.69%
+
 ![image](https://github.com/3013216006/seminar/blob/master/18-10-17/vsi.png)
 
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/0o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/0.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/0oe.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/0e.png)
+
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/1o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/1.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/1oe.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/1e.png)
+
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/2o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/2.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/2oe.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/2e.png)
+
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/3o.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/3.png)
+
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/3oe.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-10-17/1018/3e.png)
+
+**实验效果图**
 
 ---
 
