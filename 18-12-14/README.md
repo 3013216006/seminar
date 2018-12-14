@@ -17,7 +17,7 @@
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-12-14/rdf1.png)
 
-![image](https://github.com/3013216006/seminar/blob/master/18-12-14/refinenet.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/refinnnet.png)
 
 在refinenet中核心部分结构如下：
 
@@ -33,10 +33,10 @@
 **数据集**： NYUDv2和SUN RGBD
 
 **原文实验效果**：都比refinenet好
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/res.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/res.png)
 
 实验效果对比图
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/show.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/show.png)
 
 
 
@@ -83,36 +83,39 @@ depth-aware convolution and depth-aware average pooling
 
 **depth-aware convolution**:
 
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/gs2.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/gs2.png)
 
 其中
 
 
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/gs3.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/gs3.png)
 
 这样看不明白，对比原始的卷积的表达式：
 
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/gs1.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/gs1.png)
 
 **depth-aware average pooling**:
 
 
 
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/gs5.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/gs5.png)
 
 
 同样这样看不明白，对比原始的池化的表达式：
 
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/gs5.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/gs5.png)
 
 **代码链接**：[代码](https://github.com/yun-liu/rcf)
 
 **数据集**： NYUDv2和SUN RGBD
 
 **原文实验效果**：还没refinenet好。。
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/res2.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/res2.png)
 
-![image](https://github.com/3013216006/seminar/blob/master/18-10-31/res3.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-14/res3.png)
+
+
+---
 
 
 
