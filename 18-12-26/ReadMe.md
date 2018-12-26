@@ -37,6 +37,8 @@ Deformable Convolutional Network(2017 ICCV)提出了可变形卷积
 
 **实验意图与方向**：在实验2的基础上增加一个1x1的卷积层调整
 
+![image](https://github.com/3013216006/seminar/blob/master/18-12-26/3.png)
+
 **实验结果**：85.67%
 
 
