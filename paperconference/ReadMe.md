@@ -34,8 +34,8 @@ IJCAI-19 welcomes submissions across all areas of AI. The conference scope inclu
 
  ---
 
-### IJCAI
-#### International Joint Conferences on Artificial Intelligence Organization
+### ICCV
+#### International Conference on Computer Vision
 
 #### 会议相关时间点
 **论文全文提交时间**： 2019-03-22
@@ -44,7 +44,7 @@ IJCAI-19 welcomes submissions across all areas of AI. The conference scope inclu
 
 **Rebuttal截止**： 2019-06-14
 
-**论文通知时间**： 2019-05-09
+**论文通知时间**： 2019-06-22
 
 #### 会议基本介绍
 国际人工智能联合大会IJCAI(International Joint Conference on Artificial Intelligence)始于1969年，每两年一次（2016年起一年一次 ），涵盖了自然语言处理、机器学习、人工智能理论与架构、机器人科学等领域。会议具有很高的学术水平和影响力，受到学术界和产业界的高度关注，因此IJCAI和ICCV、CVPR、ICML、AAAI等会议被中国计算机学会(CCF)认定为A类会议 。
