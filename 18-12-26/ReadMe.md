@@ -68,7 +68,7 @@ Deformable Convolutional Network(2017 ICCV)提出了可变形卷积
 ---
 
 
-![image](https://github.com/3013216006/seminar/blob/master/18-12-26/53.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-26/54.png)
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-12-26/51.png)
 ![image](https://github.com/3013216006/seminar/blob/master/18-12-26/52.png)
@@ -77,7 +77,7 @@ Deformable Convolutional Network(2017 ICCV)提出了可变形卷积
 ![image](https://github.com/3013216006/seminar/blob/master/18-12-26/53.png)
 
 
-![image](https://github.com/3013216006/seminar/blob/master/18-12-26/43.png)
+![image](https://github.com/3013216006/seminar/blob/master/18-12-26/44.png)
 
 ![image](https://github.com/3013216006/seminar/blob/master/18-12-26/41.png)
 ![image](https://github.com/3013216006/seminar/blob/master/18-12-26/42.png)
