@@ -36,3 +36,12 @@
  - Monti, Federico, et al. "Geometric deep learning on graphs and manifolds using mixture model cnns." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
  - Niepert, Mathias, Mohamed Ahmed, and Konstantin Kutzkov. "Learning convolutional neural networks for graphs." International conference on machine learning. 2016.
  - Gao, Hongyang, Zhengyang Wang, and Shuiwang Ji. "Large-scale learnable graph convolutional networks." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2018.
+
+
+ ---
+
+  - Graph Convolution Networks
+  - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
+  - Graph Auto-encoders
+  - Graph Generative Networks
+  - Graph Spatial-temporal Networks
