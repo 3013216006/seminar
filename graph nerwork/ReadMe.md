@@ -1,4 +1,3 @@
----
 
 图神经网络最早在2005年[A new model for learning in graph domains](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1555942)和2009年[The graph neural network model](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1000&context=vprd_ja)的两篇论文中提出。
 
