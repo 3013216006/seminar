@@ -1,11 +1,22 @@
----
 
+
+
+
+---
+### 图神经网络的开山之作
 图神经网络最早在2005年[A new model for learning in graph domains](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1555942)和2009年[The graph neural network model](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1000&context=vprd_ja)的两篇论文中提出。
 
  - Gori, Marco, Gabriele Monfardini, and Franco Scarselli. "A new model for learning in graph domains." Proceedings. 2005 IEEE International Joint Conference on Neural Networks, 2005.. Vol. 2. IEEE, 2005.
  - Scarselli, Franco, et al. "The graph neural network model." IEEE Transactions on Neural Networks 20.1 (2009): 61-80.
-
 ---
+
+### Graph Nueral Networks
+  - Graph Convolution Networks
+  - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
+  - Graph Auto-encoders
+  - Graph Generative Networks
+  - Graph Spatial-temporal Networks
+
 
 2013年基于谱的神经网络[Spectral networks and locally connected networks on graph](https://arxiv.org/pdf/1312.6203.pdf)产生
 
@@ -39,12 +50,4 @@
  - Monti, Federico, et al. "Geometric deep learning on graphs and manifolds using mixture model cnns." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
  - Niepert, Mathias, Mohamed Ahmed, and Konstantin Kutzkov. "Learning convolutional neural networks for graphs." International conference on machine learning. 2016.
  - Gao, Hongyang, Zhengyang Wang, and Shuiwang Ji. "Large-scale learnable graph convolutional networks." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2018.
-
-
  ---
-
-  - Graph Convolution Networks
-  - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
-  - Graph Auto-encoders
-  - Graph Generative Networks
-  - Graph Spatial-temporal Networks
