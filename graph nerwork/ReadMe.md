@@ -46,8 +46,19 @@
  - [Learning convolutional neural networks for graphs](http://211.81.63.130/cloud/211.81.63.2/cache/3/03/proceedings.mlr.press/cb5795e96aa42362f86e2ba3a13c32af/niepert16.pdf)
  - [Large-scale learnable graph convolutional networks](https://arxiv.org/pdf/1808.03965.pdf)
 
+---
+
  - Hamilton, Will, Zhitao Ying, and Jure Leskovec. "Inductive representation learning on large graphs." Advances in Neural Information Processing Systems. 2017.
  - Monti, Federico, et al. "Geometric deep learning on graphs and manifolds using mixture model cnns." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
  - Niepert, Mathias, Mohamed Ahmed, and Konstantin Kutzkov. "Learning convolutional neural networks for graphs." International conference on machine learning. 2016.
  - Gao, Hongyang, Zhengyang Wang, and Shuiwang Ji. "Large-scale learnable graph convolutional networks." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2018.
  ---
+<<<<<<< HEAD
+=======
+
+  - Graph Convolution Networks
+  - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
+  - Graph Auto-encoders
+  - Graph Generative Networks
+  - Graph Spatial-temporal Networks
+>>>>>>> ee5864733d7b9846f078bb3ae02f8cdf48be6c45
